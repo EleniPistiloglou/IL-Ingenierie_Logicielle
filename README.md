@@ -10,7 +10,7 @@ SZMYTKOWSKI Eva  3407108  eva.szmyt@live.fr
 MISTRY Namrata  3677141 namrata1998@live.fr  
 YANG Chengyu 3703302 chengsdrowningfish@gmail.com  
 
-for the Software Engineering lesson of the first semester of the master's program in Computer Science at Sorbonne University. 
+for the Software Engineering course of the first semester of the master's program in Computer Science at Sorbonne University. 
 
 It aims at designing a gamebook application according to the specifications established by the tutors.  
   

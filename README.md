@@ -16,11 +16,8 @@ It aims at designing a gamebook application according to the specifications esta
 
   
 Contents:  
-
 LDVH - Use case descriptions and class diagramms  
-
 UI prototype - Screenshots of the graphical user interface prototype  
   
   
-
-original project repository (private) : 
+original project repository (private) :  

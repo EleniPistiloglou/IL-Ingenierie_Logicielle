@@ -16,7 +16,7 @@ It aims at designing a gamebook application according to the specifications esta
   
   
   
-### Contents:  
+### Contents:
 LDVH - Use case descriptions and class diagramms  
 UI prototype - Screenshots of the graphical user interface prototype  
   

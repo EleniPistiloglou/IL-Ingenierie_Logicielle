@@ -15,12 +15,12 @@ for the Software Engineering lesson of the first semester of the master's progra
 It aims at designing a gamebook application according to the specifications established by the tutors.  
   
   
-  
+  &nbsp
 ### Contents:
 LDVH - Use case descriptions and class diagramms  
 UI prototype - Screenshots of the graphical user interface prototype  
   
   
-  
+  &nbsp
 original project repository (private) :  
 https://github.com/Exo2357/IL-projet

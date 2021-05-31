@@ -13,11 +13,13 @@ YANG Chengyu 3703302 chengsdrowningfish@gmail.com
 for the Software Engineering lesson of the first semester of the master's program in Computer Science at Sorbonne University. 
 
 It aims at designing a gamebook application according to the specifications established by the tutors.  
-
   
-Contents:  
+  
+  
+###Contents:  
 LDVH - Use case descriptions and class diagramms  
 UI prototype - Screenshots of the graphical user interface prototype  
+  
   
   
 original project repository (private) :  

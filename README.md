@@ -2,13 +2,13 @@
 
 This is a preview of the original project developped by  
 
-NGUYEN DIT SYVALA Paul  3876651 pnds.5791@gmail.com  
-CARET Romain  3677221 rccaret@gmail.com  
-ROCHE Thibault  3677376 thibault.roche.fr@gmail.com  
-PISTILOGLOU Eleni 28719364 eleni.pistiloglou@gmail.com  
-SZMYTKOWSKI Eva  3407108  eva.szmyt@live.fr  
-MISTRY Namrata  3677141 namrata1998@live.fr  
-YANG Chengyu 3703302 chengsdrowningfish@gmail.com  
+NGUYEN DIT SYVALA Paul  pnds.5791@gmail.com  
+CARET Romain  rccaret@gmail.com  
+ROCHE Thibault  thibault.roche.fr@gmail.com  
+PISTILOGLOU Eleni eleni.pistiloglou@gmail.com  
+SZMYTKOWSKI Eva   eva.szmyt@live.fr  
+MISTRY Namrata  namrata1998@live.fr  
+YANG Chengyu chengsdrowningfish@gmail.com  
 
 for the Software Engineering course of the first semester of the master's program in Computer Science at Sorbonne University. 
 

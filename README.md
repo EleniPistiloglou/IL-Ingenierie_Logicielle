@@ -12,7 +12,7 @@ YANG Chengyu 3703302 chengsdrowningfish@gmail.com
 
 for the Software Engineering course of the first semester of the master's program in Computer Science at Sorbonne University. 
 
-It aims at designing a gamebook application according to the specifications established by the tutors.  
+It aims at designing a gamebook application according to the specifications defined by the tutors.  
   
   
   

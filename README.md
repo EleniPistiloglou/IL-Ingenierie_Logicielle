@@ -19,7 +19,7 @@ It aims at designing a gamebook application according to the specifications defi
 
 ### Contents:
 LDVH - Use case description and class diagramms  
-UI prototype - Screenshots of the graphical user interface prototype  
+UI prototype - Screenshots of the user interface prototype  
   
   
   
